@@ -1,6 +1,7 @@
 # 🍎 Apple Byte
 
 A classic Snake game built with **C++** and **Raylib**, featuring custom textures, sound effects, and a simple visual design.
+![Apple Byte Gameplay](assets/gameplay.gif)
 
 ## 🎮 About the Game
 
